@@ -1,4 +1,4 @@
-# Welcome to My GitHub - Unleashing the Power of Automation and AI 🚀
+Unleashing the Power of Automation and AI 🚀
 
 ![Profile Preview](https://github.com/DevRex-0201/DevRex-0201/blob/main/main.webp)
 
