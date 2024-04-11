@@ -13,13 +13,6 @@ Hello there! I'm a seasoned developer with a deep passion for automation, AI, an
 - **Web, Data Scraping & Extraction**: Utilizing cutting-edge techniques to harvest and refine large datasets from various sources.
 - **Data Mining and Analysis**: Converting complex data sets into actionable insights, driving smarter decision-making and strategic business moves.
 
-## Projects
-
-(Here, you might want to list a few of your notable projects with a brief description and link to the repositories. This could include any AI models, automation scripts, or analysis tools that you've developed.)
-
-## Get in Touch
-
-I love connecting with fellow tech enthusiasts and professionals. If you have an idea you'd like to discuss or just want to say hi, feel free to [reach out](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 
 ## Collaborations
 
